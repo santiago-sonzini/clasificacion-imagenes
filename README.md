@@ -100,19 +100,3 @@ Al seleccionar la carpeta de imágenes, se crean automáticamente las siguientes
 - `←`: Volver a la anterior
 - `Ctrl+D` o `Cmd+D`: Descartar
 
----
-
-## 🖼️ Interfaz gráfica
-
-La app permite:
-- Ver cada imagen centrada y redimensionada
-- Ingresar un nuevo nombre
-- Navegar con botones o atajos
-- Saltar a una imagen específica
-
----
-
-## 🧑‍💻 Autor
-
-Desarrollado por [Tu Nombre o Alias]  
-Licencia MIT
